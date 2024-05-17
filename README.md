@@ -1,4 +1,7 @@
-<h1 align='center'>👋 Hello!</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Latheesh+Mangeri!;" />
+</h1>
+
 <p align='center'>
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flatheeshmangeri"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flatheeshmangeri&countColor=%23263759&style=plastic" /></a>
 <a href="https://github.com/latheeshmangeri?tab=repositories"><img src="https://img.shields.io/github/stars/latheeshmangeri?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
