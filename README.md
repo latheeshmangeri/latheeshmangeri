@@ -20,7 +20,7 @@ I am a **Programming rookie**
     
 ![mailto:latheeshmangeri369@gmail.com](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)
 ![https://linkedin.com/in/latheeshmangeri](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://latheeshmangeri.github.io/](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)
+![https://latheeshmangeri.github.io/](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=libreofficewriter&logoColor=white)
 ![https://drive.google.com/file/d/1JD6NMVJGVbUSJ4Bs7L1hdXeDDAjga1Oj/view?usp=drive_link](https://img.shields.io/badge/Resume-018EF5?style=for-the-badge&logo=readdotcv&logoColor=white)
 </div>
 
