@@ -4,15 +4,17 @@
 <a href="https://github.com/latheeshmangeri?tab=repositories"><img src="https://img.shields.io/github/stars/latheeshmangeri?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 </p>
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 - I am a **Programming rookie**
 - 👨‍🏛 I am currently a student of **UTA**.
 - 💻 Major is **Computer Science and Technology**.
 ## 📫 How to reach me:
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/latheeshmangeri/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="4%"/>](https://www.facebook.com/latheeshmangeri/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4%"/>](https://www.instagram.com/latheesh_mangeri369/)  &nbsp; 
-<a href="mailto:latheeshmangeri369@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/>
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="auto"/>](https://www.linkedin.com/in/latheeshmangeri/)  &nbsp; 
+  [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="auto"/>](https://www.facebook.com/latheeshmangeri/)  &nbsp; 
+  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="auto"/>](https://www.instagram.com/latheesh_mangeri369/)  &nbsp;
+  [<img src="https://img.icons8.com/fluent/48/000000/discord.png" width="auto"/>](http://discord.com/users/latheeshmangeri/)  &nbsp;
+  [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="auto"/>](mailto:latheeshmangeri369@gmail.com)
 
 ## Technologies & Tools
 ![C](https://img.shields.io/badge/C-blue) 
