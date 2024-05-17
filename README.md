@@ -10,11 +10,11 @@
 - 👨‍🏛 I am currently a student of **UTA**.
 - 💻 Major is **Computer Science and Technology**.
 ## 📫 How to reach me:
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="auto"/>](https://www.linkedin.com/in/latheeshmangeri/)  &nbsp; 
-  [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="auto"/>](https://www.facebook.com/latheeshmangeri/)  &nbsp; 
-  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="auto"/>](https://www.instagram.com/latheesh_mangeri369/)  &nbsp;
-  [<img src="https://img.icons8.com/fluent/48/000000/discord.png" width="auto"/>](http://discord.com/users/latheeshmangeri/)  &nbsp;
-  [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="auto"/>](mailto:latheeshmangeri369@gmail.com)
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/latheeshmangeri/) 
+  [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>](https://www.facebook.com/latheeshmangeri/) 
+  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>](https://www.instagram.com/latheesh_mangeri369/)
+  [<img src="https://img.icons8.com/fluent/48/000000/discord.png"/>](http://discord.com/users/latheeshmangeri/)
+  [<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>](mailto:latheeshmangeri369@gmail.com)
 
 ## Technologies & Tools
 ![C](https://img.shields.io/badge/C-blue) 
