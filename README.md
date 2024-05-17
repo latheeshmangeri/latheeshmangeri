@@ -17,11 +17,18 @@ I am a **Programming rookie**
 </div>
 
 <div align="center"> 
-    
-![mailto:latheeshmangeri369@gmail.com](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)
-![https://linkedin.com/in/latheeshmangeri](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://latheeshmangeri.github.io/](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=libreofficewriter&logoColor=white)
-![https://drive.google.com/file/d/1JD6NMVJGVbUSJ4Bs7L1hdXeDDAjga1Oj/view?usp=drive_link](https://img.shields.io/badge/Resume-018EF5?style=for-the-badge&logo=readdotcv&logoColor=white)
+<a href="mailto:latheeshmangeri369@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/latheeshmangeri" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://latheeshmangeri.github.io/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+   <a href="https://drive.google.com/file/d/1JD6NMVJGVbUSJ4Bs7L1hdXeDDAjga1Oj/view?usp=drive_link" target="_blank">
+     <img src="https://img.shields.io/badge/Resume-018EF5?style=for-the-badge&logo=readdotcv&logoColor=white" target="_blank" /> 
+       
 </div>
 
  <hr/>
