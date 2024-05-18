@@ -8,6 +8,8 @@
 </p>
 <div align="center"> 
 
+I am Currently Learning **Prompt Engineering**
+
 I am a **Programming rookie** 
     
 👨‍🏛 I am currently a student at **University of Texas Arlington**.
