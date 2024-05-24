@@ -45,7 +45,7 @@ I am a **Programming rookie**
 <div>
 
 <p><b>Languages             </b>: Python, C, Java, JavaScript</p>
-<p><b>Packages              </b>: Selenium, Numpy, Pandas, Tensorflow, Scikit-Learn, Open-CV, NLP</p>
+<p><b>Packages              </b>: Selenium, Flask, Numpy, Pandas, Tensorflow, Scikit-Learn, Open-CV, NLP</p>
 <p><b>Data science          </b>: Probability & Statistics, Excel, Python</p>
 <p><b>Data Visualization    </b>: Matplotlib, Seaborn, PowerBI, Tableau</p>
 <p><b>Front-End             </b>: HTML, CSS</p>
