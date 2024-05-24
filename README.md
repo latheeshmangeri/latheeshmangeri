@@ -38,17 +38,20 @@ I am a **Programming rookie**
 
  <hr/>
 
+
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align=center>
-    
-Languages - Python, C, Java, JavaScript <br/>
-PIP Libraries - Selenium, Numpy, Pandas, Tensorflow, Scikit-Learn, Open-CV, NLP <br/>
-Data science - Probability & Statistics, Excel, Python <br/>
-Data Visualization - Matplotlib, Seaborn, PowerBI, Tableau <br/>
-Front-End - HTML, CSS <br/>
-Back-End - MySQL <br/>
-Softwares - Android Studio, Pycharm, VS Code, Cisco Packet Tracer
+<div>
+
+<p><b>Languages             </b>: Python, C, Java, JavaScript</p>
+<p><b>Packages              </b>: Selenium, Numpy, Pandas, Tensorflow, Scikit-Learn, Open-CV, NLP</p>
+<p><b>Data science          </b>: Probability & Statistics, Excel, Python</p>
+<p><b>Data Visualization    </b>: Matplotlib, Seaborn, PowerBI, Tableau</p>
+<p><b>Front-End             </b>: HTML, CSS</p>
+<p><b>Back-End              </b>: MySQL</p>
+<p><b>Softwares             </b>: Android Studio, Pycharm, VS Code, Cisco Packet Tracer</p>
+
 </div>
 <hr />
 <div align=center>
