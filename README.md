@@ -42,16 +42,13 @@ I am a **Programming rookie**
 <br/>
 <div align=center>
     
-![C](https://img.shields.io/badge/C-blue) 
-![Java](https://img.shields.io/badge/JAVA-F89820?logo=coffeescript&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-F7DF1E?logo=python&logoColor=black) 
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) 
-![MYSQL](https://img.shields.io/badge/MYSQL-blue?logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Android_Studio-34A853?logo=android&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio-0285FF)
-![](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
-![](https://img.shields.io/badge/MS_Office_Excel-007C3C?logo=libreofficecalc&logoColor=white)
+Languages - Python, C, Java, JavaScript <br/>
+PIP Libraries - Selenium, Numpy, Pandas, Tensorflow, Scikit-Learn, Open-CV, NLP <br/>
+Data science - Probability & Statistics, Excel, Python <br/>
+Data Visualization - Matplotlib, Seaborn, PowerBI, Tableau <br/>
+Front-End - HTML, CSS <br/>
+Back-End - MySQL <br/>
+Softwares - Android Studio, Pycharm, VS Code, Cisco Packet Tracer
 </div>
 <hr />
 <div align=center>
