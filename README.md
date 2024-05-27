@@ -8,11 +8,11 @@
 </p>
 <div align="center"> 
 
-I am Currently Learning **LangChain**
+Currently Learning **LangChain**
 
-I am a **Programming rookie** 
+ **Programming rookie** 
     
-👨‍🏛 I am currently a student at **University of Texas Arlington**.
+👨‍🏛 A student at **University of Texas Arlington**.
 
 💻 Major is **Computer Science and Technology**.
 
