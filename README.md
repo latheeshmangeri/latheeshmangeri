@@ -57,7 +57,7 @@ Currently Learning **LangChain**
 <div align=center>
   
   ![](https://github-readme-stats-salesp07.vercel.app/api?username=latheeshmangeri&hide=issues,contribs&theme=transparent&hide_border=true)
-  ![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=latheeshmangeri&langs_count=8&theme=transparent&hide_border=true&hide=jupyter%20notebook,tex,css,php,swig,fortran,xslt)
+  ![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=latheeshmangeri&langs_count=10&theme=transparent&hide_border=true&hide=jupyter%20notebook,tex,css,php,swig,fortran,xslt,shell,PowerShell,Roff,Cython)
   <br/>
   ![](https://github-readme-streak-stats-salesp07.vercel.app/?user=latheeshmangeri&count_private=true&theme=transparent&hide_border=true)
 
