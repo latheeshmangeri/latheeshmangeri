@@ -47,7 +47,7 @@ Currently Learning **LangChain**
 <p><b>Languages             </b>: Python, C, Java, JavaScript</p>
 <p><b>Skills                </b>: Prompt Engineering, Selenium, Flask, Numpy, Pandas, Tensorflow, Scikit-Learn, Open-CV, NLP</p>
 <p><b>Data science          </b>: Probability & Statistics, Excel</p>
-<p><b>Data Visualization    </b>: Matplotlib, Seaborn</p>
+<p><b>Data Visualization    </b>: PowerBI, Tableau, Matplotlib, Seaborn</p>
 <p><b>Front-End             </b>: HTML, CSS</p>
 <p><b>Back-End              </b>: MySQL</p>
 <p><b>Softwares             </b>: Android Studio, Eclipse, Pycharm, VS Code</p>
