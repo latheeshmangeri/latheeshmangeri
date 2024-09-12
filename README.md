@@ -44,9 +44,9 @@ Currently Learning **LangChain**
 <br/>
 <div>
 
-<p><b>Languages             </b>: Python, C, Java, JavaScript</p>
-<p><b>Skills                </b>: Prompt Engineering, Selenium, Flask, Numpy, Pandas, Tensorflow, Scikit-Learn, Open-CV, NLP</p>
-<p><b>Data science          </b>: Probability & Statistics, Excel</p>
+<p><b>Languages             </b>: Python, C, Java</p>
+<p><b>Skills                </b>: Prompt Engineering, Selenium, Flask, Numpy, Pandas, Tensorflow, Scikit-Learn, Open-CV, NLP, Docker, Streamlit</p>
+<p><b>Data science          </b>: Probability & Statistics, Excel, AWS</p>
 <p><b>Data Visualization    </b>: PowerBI, Tableau, Matplotlib, Seaborn</p>
 <p><b>Front-End             </b>: HTML, CSS</p>
 <p><b>Back-End              </b>: MySQL</p>
@@ -61,5 +61,5 @@ Currently Learning **LangChain**
   <br/>
   ![](https://github-readme-streak-stats-salesp07.vercel.app/?user=latheeshmangeri&count_private=true&theme=transparent&hide_border=true)
 
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/latheeshmangeri?border=0&radius=20&ext=activity)](https://leetcode.com/latheeshmangeri)
 
