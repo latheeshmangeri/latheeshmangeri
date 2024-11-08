@@ -59,7 +59,7 @@ Currently Learning **LangChain**
   <br/>
   ![](https://github-readme-streak-stats-salesp07.vercel.app/?user=latheeshmangeri&count_private=true&theme=transparent&hide_border=true)
 
-# 📊 Leetcode Stats:
+# 👨🏻‍💻 Leetcode Stats:
 [![Leetcode Stats](https://leetcard.jacoblin.cool/latheeshmangeri?border=0&radius=25&ext=activity)](https://leetcode.com/latheeshmangeri)
 
 
