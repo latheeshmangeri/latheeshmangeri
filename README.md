@@ -11,8 +11,6 @@
 Currently Learning **LangChain**
 
  **Programming rookie** 
-    
-👨‍🏛 A student at **University of Texas Arlington**.
 
 💻 Major is **Computer Science and Technology**.
 
